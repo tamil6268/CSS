@@ -1,0 +1,10 @@
+h2{color: rgb(226, 29, 29);}
+h3{ color: rgb(226, 29, 29);font-style: italic;}
+   .hr{ color: rgb(225, 222, 228);}
+   ol,ul,p{ color: rgb(126, 27, 27);font-size: small;}
+    ul{ color: rgb(126, 27, 27);font-size: small;font-family:serif ;letter-spacing:3px ;}
+    .css{color: rgb(226, 29, 29)}
+    .bg{font-weight: bold;background-color: yellow;}
+    .line{font-weight: bold;text-decoration:line-through;}
+    .ul{text-decoration: underline;font-style: italic;}
+    #fc{background-color: yellow;color:red;font-style: italic;text-decoration:underline yellow;}
