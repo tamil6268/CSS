@@ -112,11 +112,11 @@ h4{
     font-size:xx-large;
 }
 .disc {
-    text-align: center;
     display:flex;
     flex-wrap: wrap;
 }
 .a{
+     text-align: center;
     padding: 10px 1px 5px 30px;
     border-style:solid; border-color:green;
     margin:50px 865px 10px 50px;
@@ -126,6 +126,7 @@ h4{
     border-width:4px;
 }
 .b{
+     text-align: center;
     padding: 10px 1px 5px 30px;
     border-style:solid; border-color:green;
     margin:-250px 450px 10px 445px;
@@ -135,6 +136,7 @@ h4{
     border-width:4px;
 }
 .c{
+     text-align: center;
     padding: 10px 1px 5px 30px;
     border-style:solid; border-color:green;
     margin:-250px 50px 10px 860px;
@@ -144,6 +146,7 @@ h4{
     border-width:4px;
 }
 .d{
+     text-align: center;
     padding: 10px 1px 5px 30px;
     border-style:solid; border-color:green;
     margin:50px 865px 10px 50px;
@@ -153,6 +156,7 @@ h4{
     border-width:4px;
 }
 .e{
+     text-align: center;
     padding: 10px 1px 5px 30px;
     border-style:solid; border-color:green;
     margin:-250px 450px 10px 445px;
@@ -162,6 +166,7 @@ h4{
     border-width:4px;
 }
 .f{
+     text-align: center;
     padding: 10px 1px 5px 30px;
     border-style:solid; border-color:green;
     margin:-250px 50px 90px 860px;
