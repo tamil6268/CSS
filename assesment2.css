@@ -1,0 +1,152 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body
+{
+    border: 8px groove greenyellow;
+    background-image: url(https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-size:3940px;   
+}
+.box1
+{
+    height: 134px;
+    width:380px;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    border-radius: 30px;
+    font-size:xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    box-sizing: border-box;
+    position: relative;
+    top : 30px;
+    left: 50px;
+}
+.box2
+{
+    width: 400px;
+    height: 70px;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    padding: 24px 25px 20px 45px;
+    border-radius: 30px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-size:x-large;
+    font-style: italic;
+    font-weight: bolder;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 70px;
+    left: 312px;
+}
+.box3
+{
+    width:450px;
+    height: 150px;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    padding-left: 105px;
+    padding-top: 30px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    border-radius: 30px;
+    font-size:x-large;
+    font-style: italic;
+    font-weight: bolder;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 175px;
+    left: 775px;
+}
+.circle
+{
+    text-align: center;
+    width: 364px;
+    height: 364px;
+    border-radius: 50%;
+    background-color: lightseagreen ;
+    border: 8px solid grey;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    box-sizing: border-box;
+    position: relative;
+    top: 30px;
+    left: 130px;
+}
+.span{
+    font-weight:bold; 
+    font-size: large; 
+    font-style:italic; 
+    text-decoration: underline
+}
+.form
+{
+    text-align: center;
+    width:300px;
+    height: 560px;
+    color: rgb(185, 13, 13);
+    border: 5px dashed red;
+    background-color: white;
+    padding: 20px;
+    position: relative;
+    bottom: 500px;
+    left: 680px;
+
+}
+.menu
+{
+    width:400px;
+    height: 80px;
+    text-align: center;
+    border: 6px solid red;
+    background-color: black;
+    color: white;
+    padding: 20px 20px 20px 20px;
+    border-radius: 20px;
+    font-size:xx-large;
+    font-style: italic;
+    font-weight: bolder;
+    box-sizing: border-box;
+    position: relative;
+    bottom: 438px;
+    left: 450px;
+}
+.hr
+{
+    position: relative;
+    bottom: 430px;
+}
+.starter1
+{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    position: relative;
+    bottom: 450px;
+}
+.starter
+{
+    margin-top:40px;
+    width:350px;
+    height: 250px;
+    text-align: center;
+    padding-top: 30px;
+    color: rgb(8, 8, 184);
+    border: 3px solid green;
+    border-radius: 20px;
+    background-color: aqua;
+    font-size: large;
+}
+
+.a,.b,.c,.d,.e,.f
+{
+    position: relative;
+    left:30px
+}
