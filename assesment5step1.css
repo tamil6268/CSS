@@ -1,0 +1,88 @@
+body{
+    margin: 0 auto;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgb(233, 233, 77);
+}
+.parent{
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-around;
+    align-items: center;
+}    
+.child1{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition: width 1s ease-in-out;
+    row-gap:10px;
+}
+.child1:hover{
+    width: 200px;
+}
+.child2{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition: height 1s ease-in-out,width 1s ease-in-out;
+}
+.child2:hover{
+    width: 200px;
+    height: 200px;
+}
+.child3{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition:width 1s linear;
+}
+.child3:hover{
+    width: 200px;
+}
+.child4{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition:width 1s ease;
+}
+.child4:hover{
+    width: 200px;
+}
+.child5{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition:width 1s ease-in;
+}
+.child5:hover{
+    width: 200px;
+}
+.child6{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition:width 1s ease-out;
+}
+.child6:hover{
+    width: 200px;
+}
+.child7{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(114, 175, 9);
+    transition:width 1s ease-in-out;
+}
+.child7:hover{
+    width: 200px;
+}
+.back a{
+   color: brown;
+}
+.back{
+    text-align: center;
+    font-size: xx-large;
+}
+.next{
+    text-align: center;
+    font-size: xx-large;
+}
